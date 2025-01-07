@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"00c2b969190e512f","type":"file","file":"Computer Vision/Introduction.md","x":-920,"y":-669,"width":400,"height":400},
+		{"id":"8567a27d031182ac","type":"file","file":"Computer Vision/ANN.md","x":-920,"y":-120,"width":400,"height":400},
+		{"id":"a7fe7331aac546fb","type":"file","file":"Computer Vision/CNN.md","x":-920,"y":400,"width":400,"height":400},
+		{"id":"b23695df1331555b","type":"file","file":"Computer Vision/YOLO.md","x":-920,"y":1040,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"1bd447c710426324","fromNode":"00c2b969190e512f","fromSide":"bottom","toNode":"8567a27d031182ac","toSide":"top"},
+		{"id":"9130bc951ee8a049","fromNode":"8567a27d031182ac","fromSide":"bottom","toNode":"a7fe7331aac546fb","toSide":"top"},
+		{"id":"7477181d38df65e7","fromNode":"a7fe7331aac546fb","fromSide":"bottom","toNode":"b23695df1331555b","toSide":"top"}
+	]
+}
